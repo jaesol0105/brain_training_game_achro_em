@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">말랑말랑 게임 랭킹</string>
+    <string name="textview_message" formatted="false"> %s %10s \n</string>
+</resources>
