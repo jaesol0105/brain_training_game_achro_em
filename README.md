@@ -22,8 +22,25 @@ Text LCD : 안내 메세지 출력
 
 
 ## 시스템 시나리오
-
+<img width="80%" src="https://user-images.githubusercontent.com/70834187/147273829-86119308-9a23-488c-9971-ac9896c65226.png"/>
 
 ## 시스템 구성도
+<img width="80%" src="https://user-images.githubusercontent.com/70834187/147273712-956b5c51-a505-4f90-8dc6-826c9d674d6d.png" />
 
 ## 역할분담
+<table>
+	<th>이름</th>
+	<th>내용</th>
+	<tr>
+	    <td>김진원</td>
+	    <td>게임1 제작 및 fpga device 구현, 닉네임 입력 구현</td>
+	</tr>
+	<tr>
+	    <td>이재솔</td>
+	    <td>게임2 제작 및 어플리케이션 제작, mariaDB/WAS/APP 연동</td>
+	</tr>
+	<tr>
+	    <td>박석현</td>
+	    <td>게임3 제작 및 PPT 작성, 발표</td>
+	</tr>
+</table>
