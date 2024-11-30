@@ -1,6 +1,17 @@
 # brain_training_game_achro_em
 Achro-EM Kit을 이용한 기억력 훈련 게임
 
+
+> **개발 기간 :** 2021.12
+>
+> **개발 언어 및 개발 도구 :** C, java <br>
+> Achro-EM, RaspberryPi, Android Studio, Apache Tomcat, MariaDB
+>
+> **개발 환경 :** Windows, Linux
+>
+> **참여 인원 :** 3명
+
+
 ## 개요
 * 사용자는 Achro-EM Kit을 통해 게임 중 하나를 선택하여 플레이한다.<br>
 * 게임은 게임오버 될 때까지 계속되며, 스테이지를 클리어 할 때마다 스코어를 1 획득한다.<br>
@@ -33,14 +44,14 @@ Text LCD : 안내 메세지 출력
 	<th>내용</th>
 	<tr>
 	    <td>김진원</td>
-	    <td>게임1 제작 및 fpga device 구현, 닉네임 입력 구현</td>
+	    <td>게임1 구현 및 fpga device 구현, 닉네임 입력 구현</td>
 	</tr>
 	<tr>
 	    <td>이재솔</td>
-	    <td>게임2 제작 및 어플리케이션 제작, mariaDB/WAS/APP 연동</td>
+	    <td>게임2 구현 및 안드로이드 앱 제작, WAS 서버 / mariaDB 설계 및 구축 </td>
 	</tr>
 	<tr>
 	    <td>박석현</td>
-	    <td>게임3 제작 및 PPT 작성, 발표</td>
+	    <td>게임3 구현 및 PPT 작성, 발표</td>
 	</tr>
 </table>
