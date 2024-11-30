@@ -2,6 +2,13 @@
 
 Achro-EM Kit을 이용한 기억력 훈련 게임
 
+> **개발 언어 및 개발 도구 :** C, java <br>
+> Achro-EM, RaspberryPi, Android Studio, Apache Tomcat, MariaDB
+>
+> **개발 환경 :** Windows, Linux
+>
+> **참여 인원 :** 3명
+
 ## Features
 * 사용자는 Achro-EM Kit을 통해 게임 중 하나를 선택하여 플레이한다.<br>
 * 게임은 게임오버 될 때까지 계속되며, 스테이지를 클리어 할 때마다 스코어를 1 획득한다.<br>
@@ -13,13 +20,6 @@ Achro-EM Kit을 이용한 기억력 훈련 게임
 게임2. 같은 카드 찾기 게임
 게임3. 숫자 위치 기억하기 게임
 ```
-## Development
-> **개발 언어 및 개발 도구 :** C, java <br>
-> Achro-EM, RaspberryPi, Android Studio, Apache Tomcat, MariaDB
->
-> **개발 환경 :** Windows, Linux
->
-> **참여 인원 :** 3명
 
 ## Devices
 Push Switch : 게임 진행, 숫자 입력
